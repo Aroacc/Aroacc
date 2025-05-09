@@ -1,5 +1,5 @@
 <h2 align="center">👋 ¡Hola, soy Aroa Clavijo!</h2>
-<h3 align="center">Desarrolladora Web Frontend/h3>
+<h3 align="center">Desarrolladora Web Frontend
 
 ---
 
@@ -37,8 +37,8 @@
 ### 📫 Contacto
 
 <p align="center">
-  <a href="aroaclavijo16@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aroa-clavijo-caravante/"><img src="https://img.shields.io/badge/LinkedIn-Aroa%20Clavijo-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <a href="mailto:aroaclavijo16@gmail.com"><img src="https://img.shields.io/badge/Email-Enviar%20correo-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aroaclavijo/"><img src="https://img.shields.io/badge/LinkedIn-Aroa%20Clavijo-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
