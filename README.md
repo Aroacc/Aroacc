@@ -38,7 +38,7 @@
 
 <p align="center">
    <a href="mailto:aroaclavijo16@gmail.com"><img src="https://img.shields.io/badge/Email-Enviar%20correo-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aroaclavijo/"><img src="https://img.shields.io/badge/LinkedIn-Aroa%20Clavijo-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aroa-clavijo-caravante-116b851a9/"><img src="https://img.shields.io/badge/LinkedIn-Aroa%20Clavijo-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
